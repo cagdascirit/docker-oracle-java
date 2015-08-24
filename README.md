@@ -1,2 +1,2 @@
 # docker-oracle-java
-Base Docker Java images on Debian
+Base Java Docker Images on Debian OS
